@@ -7,6 +7,9 @@ projet personnel site de reservation de stade foot par des clients avec compte p
 
 Pour lancer le projet
 
+main : API REST
+master : App REACT
+
 installer DB "generationfoot_DB"
 
 Puis :
